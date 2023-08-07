@@ -1,4 +1,4 @@
-modern_frontend// let age:number = 36;
+// let age:number = 36;
 // let isDone:boolean = false;
 // let color:string = 'red';
 // let myNumber:string = '200'
